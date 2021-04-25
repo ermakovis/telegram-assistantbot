@@ -26,6 +26,7 @@ public class Bot extends TelegramLongPollingBot {
         String chatId = update.getMessage().getChatId().toString();
         String message = update.getMessage().getText();
 
+
         sendMsg(chatId, message + " :D");
     }
 
