@@ -1,2 +1,2 @@
 # telegram-assistantbot
-I want to bots to help me with being lazy
+I want bots to help me with being lazy
